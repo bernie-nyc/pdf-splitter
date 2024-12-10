@@ -1,5 +1,9 @@
 # pdf-splitter
 a script to split pdf files based on a specific string, then create outputs with filenames based on that string
+**Prerequisites**
+pip install pypdf2
+pip install pdfminer.six
+
 
 **How to Use:**
 Save the script as split_pdf_by_student_id.py.
