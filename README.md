@@ -4,6 +4,7 @@ a script to split pdf files based on a specific string, then create outputs with
 **Prerequisites**
 
 pip install pypdf2
+
 pip install pdfminer.six
 
 
